@@ -1,5 +1,8 @@
 # Iris Flower Classification using Machine Learning
 
+![iris 2](https://github.com/ishikawa-yui/Iris_flower_dataset_ML/assets/71602299/953be7ba-e03f-457b-a60f-cdcdce7ef8db)
+
+
 ## Table of Contents
 - [About the Dataset](#about-the-dataset)
   - [Context](#context)
