@@ -3,6 +3,8 @@
 
 ![iris 2](https://github.com/ishikawa-yui/Iris_flower_dataset_ML/assets/71602299/91814c99-d302-4ede-a192-cd1a8a8eae0f)
 
+**(Using SVM)**
+
 
 ## Table of Contents
 - [About the Dataset](#about-the-dataset)
